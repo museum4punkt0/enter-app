@@ -6,7 +6,7 @@ Please consult its documentation on the deployment of apps.
 The app is used within museum4punkt0's instance of ResearchSpace <a href="https://enter.museum4punkt0.de/">enter.museum4punkt0</a>.
 
 The app provides project-specifc configurations such as templates and field definitions. The data model of the app is based on  the enter-ontology, referring to 
-https://github.com/fdiehr/enter-ontology
+https://github.com/museum4punkt0/enter-ontology
 
 
 ### Setup editor role
@@ -17,7 +17,7 @@ instance's project folder on the host:
 
     apps/entermuseum4punkt0/setup-role.sh
 
-This refers to instances setup with https://github.com/funkyfuture/m4p0-researchspace-deployment
+This refers to instances setup with https://github.com/museum4punkt0/entermuseum4punkt0-deployment
 
 
 ## Project
