@@ -3,7 +3,7 @@
 entermuseum4punkt0 is an app to be used for the virtual research environment (VRE) "ResearchSpace" referring to: https://github.com/researchspace/researchspace 
 Please consult its documentation on the deployment of apps.
 
-The app is used within museum4punkt0's instance of ResearchSpace <a href="https://enter.museum4punkt0.de/">enter.museum4punkt0</a>.
+The app is used within museum4punkt0's instance of ResearchSpace.
 
 The app provides project-specifc configurations such as templates and field definitions. The data model of the app is based on  the enter-ontology, referring to 
 https://github.com/museum4punkt0/enter-ontology
